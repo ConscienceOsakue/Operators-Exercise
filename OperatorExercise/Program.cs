@@ -18,6 +18,10 @@ namespace OperatorExercise
             var quotient = a / b;
             var remainder = a % b;
 
+            var i = 3;
+            var j = 4;
+            var k = ++i * j++;
+
             Console.WriteLine($"{a} + {b} = {sum}, {a} - {b} = {subtr}, {a} * {b} = {multi}, {a} / {b} is {quotient} remainder {remainder}");
 
             Console.WriteLine("What is the radius of your cicle?");
@@ -26,6 +30,8 @@ namespace OperatorExercise
             var radius = double.Parse(Console.ReadLine());
 
             Console.WriteLine(AreaOfCircle(radius));
+
+            Console.WriteLine($"The value k = {k}.");
         }
 
         //define a method - which perform some functionality. That can be 
@@ -38,5 +44,6 @@ namespace OperatorExercise
             return area;
 
         }
+        //var is 
     }
 }
