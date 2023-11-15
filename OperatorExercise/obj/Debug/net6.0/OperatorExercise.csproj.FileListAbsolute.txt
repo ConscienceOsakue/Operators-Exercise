@@ -12,3 +12,13 @@ C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0
 C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
 C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
 C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\Aspose.Cells.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\consc\Desktop\repo\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CopyComplete

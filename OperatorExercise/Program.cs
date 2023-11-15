@@ -1,4 +1,8 @@
-﻿namespace OperatorExercise
+﻿using System;
+using System.Formats.Asn1;
+using System.Reflection.Metadata.Ecma335;
+
+namespace OperatorExercise
 {
     public class Program
     {
@@ -14,7 +18,25 @@
             var quotient = a / b;
             var remainder = a % b;
 
-            Console.WriteLine($"{a} + {b} = {sum}, {a} - {b} = {subtr}, {a} * {b} = {multi}, {a} / {b} is {quotient} remainder {remainder}" );
+            Console.WriteLine($"{a} + {b} = {sum}, {a} - {b} = {subtr}, {a} * {b} = {multi}, {a} / {b} is {quotient} remainder {remainder}");
+
+            Console.WriteLine("What is the radius of your cicle?");
+
+
+            var radius = double.Parse(Console.ReadLine());
+
+            Console.WriteLine(AreaOfCircle(radius));
+        }
+
+        //define a method - which perform some functionality. That can be 
+        // used over and over again.
+        public static double AreaOfCircle(double radius)
+        
+        {
+            //This is the scope of the method.
+            var area = Math.PI * Math.Pow(radius, 2);
+            return area;
+
         }
     }
 }
